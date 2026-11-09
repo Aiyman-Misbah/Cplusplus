@@ -78,4 +78,19 @@ Some examples ask for input in the terminal. Each source file is an independent 
 
 Start with the lowest-numbered topic and work through the folders in order. Read the source code, compile it, try it, and then change the code to see what happens.
 
+## 👨‍💻 Author
+
+**Mohammad Aiyman Misbah**
+
+Computer Science & Engineering Student
+
+**Chittagong University of Engineering & Technology(CUET)**,
+Chittagong,
+Bangladesh 🇧🇩.
+
+---
+
+⭐ If you find this repository useful, feel free to star it!
+
+**Thanks for visiting!**
 
