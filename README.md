@@ -1,6 +1,6 @@
-# 🧠💻 C++ Full Course
+# 🧠💻 C++ Walk through 
 
-Welcome to my C++ Full Course repository! 🎉 This is a collection of topic-based C++ examples and mini projects created while learning the language. The numbered folders make it easy to follow the course in order, review a concept, and practice by running the code.
+Welcome to my C++ repository! 🎉 This is a collection of topic-based C++ examples and mini projects created while learning the language. The numbered folders make it easy to follow the course in order, review a concept, and practice by running the code.
 
 ## 🚀 About This Repository
 
@@ -14,7 +14,7 @@ This repository contains:
 ## 📂 Repository Structure
 
 ```text
-Cplusplus-Full-Course/
+Cplusplus/
 ├── 01.Variables/
 ├── 02.Const/
 ├── 03.Name Space/
